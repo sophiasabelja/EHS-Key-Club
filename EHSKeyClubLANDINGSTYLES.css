@@ -3,7 +3,7 @@ body {
     margin: 0px;
 }
 
-.KEY-CLUB-SEAL-Color-1.jpg {
+.appImg {
     width: 5%;
     height: auto;
 }
@@ -18,7 +18,7 @@ body {
     height: 10vh;
 }
 
-#logo {
+#appImg {
     height: 50px;
     width: auto;
 }
